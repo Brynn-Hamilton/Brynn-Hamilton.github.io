@@ -1,0 +1,3 @@
+[submodule "plotly-challenge"]
+	path = plotly-challenge
+	url = https://github.com/Brynn-Hamilton/plotly-challenge.git
