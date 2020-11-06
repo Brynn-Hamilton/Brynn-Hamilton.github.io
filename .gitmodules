@@ -1,3 +1,6 @@
 [submodule "plotly-challenge"]
 	path = plotly-challenge
 	url = https://github.com/Brynn-Hamilton/plotly-challenge.git
+[submodule "Web-Design-Challenge"]
+	path = Web-Design-Challenge
+	url = https://github.com/Brynn-Hamilton/Web-Design-Challenge.git
